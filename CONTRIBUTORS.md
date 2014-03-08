@@ -5,54 +5,78 @@ You can check out the [contribution graphs on github](https://github.com/n1k0/ca
 ```
 $ git shortlog -s -n | cut -c8-
 Nicolas Perriault
-oncletom
-Brikou CARRE
+Mickaël Andrieu
+Laurent Jouanneau
 hexid
+Brikou CARRE
+oncletom
+Matt DuVall
+Nathan Black
 hannyu
 Julien Muetton
 Chris Bosco
 Matt Bowman
+Shiryaev Andrey
+mickaelandrieu
+Clochix
 Chris Lorenzo
 Victor Yap
 JF Paradis
-pborreli
-nrabinowitz
+Matthew DuVall
 Rob Barreca
 Oleg Pudeyev
-Tyler Ritchie
+pborreli
+nrabinowitz
 Darrell Hamilton
-Solomon White
+Tyler Ritchie
 Andrew Childs
-Luke Rodgers
+Eric Bouchut
 Dave Lee
+Solomon White
+Luke Rodgers
 reina.sweet
-Michael Geers
-Jason Funk
-Julien Moulin
-Philip Hansen
+renatodarrigo
 Donovan Hutchinson
-Reid Lynch
-Reina Sweet
-Elmar Langholz
 Sean Massa
+Vladimir Chizhov
+Samuel Gabel
+Reina Sweet
+Jan Schaumann
+fwebdev
+Reid Lynch
+Justin Collum
+Philip Hansen
+Michael Geers
+Orchestrator81
+Nick Currier
+Julien Moulin
+Elmar Langholz
+Jason Funk
+Lee Byrd
 Thomas Rosenau
 V Sreekanth
-Vladimir Chizhov
-Lee Byrd
-Jan Schaumann
-Clochix
-snkashis
+Patrick Reagan
 Andrew de Andrade
+Andy Shinn
 Ben Johnson
 Ben Lowery
+Bert Pareyn
+Brandon Bethke
 Charlie Park
 Chris Winters
 Christophe Benz
+Dharrya
+Dmitry Menshikov
+Florent DUBOST
 Harrison Reiser
 Itamar Nabriski
+Ivan
+Jamey J. DeOrio
 Jan Pochyla
 Jan-Martin Fruehwacht
+John F. Douthat
 Julian Gruber
+Justin Marsan
 Justin Slattery
 Justine Tunney
 KaroDidi
@@ -61,16 +85,25 @@ Maisons du monde
 Marcel Duran
 Mathieu Agopian
 Mehdi Kabab
-Mickaël Andrieu
+Miguel González
+Mikhail Korobov
 Mikko Peltonen
 Narno
 Pascal Borreli
+Phillip Alexander
 Rafael
 Rafael Garcia
 Raphaël Benitte
 Rock Li
+Scott
+Thomas Parisot
 Tim Bunce
+Tzvi Friedman
+Yasuo Ohgaki
 Yevgeny Smirnov
 alfetopito
+jayseeg
 jean-philippe serafin
+shekyan
+snkashis
 ```

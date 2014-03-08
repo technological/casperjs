@@ -6,9 +6,10 @@
     </head>
     <body>
         <form action="result.html" enctype="multipart/form-data">
-            <input type="text" name="email" placeholder="email">
+            <input type="text" name="email" placeholder="email" id="email">
             <input type="password" name="password" placeholder="password">
             <input type="text" name="language" placeholder="language">
+            <input type="whatever" name="strange">
             <textarea name="content"></textarea>
             <select name="topic">
                 <option>foo</option>
@@ -23,6 +24,10 @@
             <input type="checkbox" name="checklist[]" value="3">
             <input type="submit" name="submit" value="submit">
         </form>
+        <form id="no-type-test-form" action="#" enctype="multipart/form-data">
+            <input name="notype">
+        </form>
+
         <script>
             (function () {
                 'use strict';
